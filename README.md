@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Landing page for a bicycle company website.
+Made with BEM, SASS, grid and flexbox css layouts. Responsive design.
+
+- [DESIGN](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas&t=k3oyMNYEF1Kcvvdr-0)
+- [REPO LINK](https://github.com/Krykunov/my-bike-landing-page)
